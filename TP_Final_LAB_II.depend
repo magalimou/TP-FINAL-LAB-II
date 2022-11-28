@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1669389584 source:c:\users\usuario\desktop\tp_final_lab_ii\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	"cartelesBanderas.h"
+
+1669389621 c:\users\usuario\desktop\tp_final_lab_ii\cartelesbanderas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"Fase.h"
+
+1669389621 c:\users\usuario\desktop\tp_final_lab_ii\fase.h
+	"Partido.h"
+
+1669389621 c:\users\usuario\desktop\tp_final_lab_ii\partido.h
+	"Grupo.h"
+
+1669389621 c:\users\usuario\desktop\tp_final_lab_ii\grupo.h
+	"Equipo.h"
+
+1669389584 c:\users\usuario\desktop\tp_final_lab_ii\equipo.h
+	<stdio.h>
+
+1669389621 source:c:\users\usuario\desktop\tp_final_lab_ii\cartelesbanderas.c
+	"cartelesBanderas.h"
+
+1669389621 source:c:\users\usuario\desktop\tp_final_lab_ii\equipo.c
+	"Equipo.h"
+
+1669389621 source:c:\users\usuario\desktop\tp_final_lab_ii\fase.c
+	"Fase.h"
+
+1669389621 source:c:\users\usuario\desktop\tp_final_lab_ii\grupo.c
+	"Grupo.h"
+
+1669389621 source:c:\users\usuario\desktop\tp_final_lab_ii\partido.c
+	"Partido.h"
+
+1669389621 source:c:\users\magui\downloads\tp final lab ii - arean, mouriño, albarracin - com 4\tp_final_lab_ii\cartelesbanderas.c
+	"cartelesBanderas.h"
+
+1669389621 c:\users\magui\downloads\tp final lab ii - arean, mouriño, albarracin - com 4\tp_final_lab_ii\cartelesbanderas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"Fase.h"
+
+1669627375 c:\users\magui\downloads\tp final lab ii - arean, mouriño, albarracin - com 4\tp_final_lab_ii\fase.h
+	"Partido.h"
+
+1669389621 c:\users\magui\downloads\tp final lab ii - arean, mouriño, albarracin - com 4\tp_final_lab_ii\partido.h
+	"Grupo.h"
+
+1669389621 c:\users\magui\downloads\tp final lab ii - arean, mouriño, albarracin - com 4\tp_final_lab_ii\grupo.h
+	"Equipo.h"
+
+1669389584 c:\users\magui\downloads\tp final lab ii - arean, mouriño, albarracin - com 4\tp_final_lab_ii\equipo.h
+	<stdio.h>
+
+1669389621 source:c:\users\magui\downloads\tp final lab ii - arean, mouriño, albarracin - com 4\tp_final_lab_ii\equipo.c
+	"Equipo.h"
+
+1669627375 source:c:\users\magui\downloads\tp final lab ii - arean, mouriño, albarracin - com 4\tp_final_lab_ii\fase.c
+	"Fase.h"
+
+1669389621 source:c:\users\magui\downloads\tp final lab ii - arean, mouriño, albarracin - com 4\tp_final_lab_ii\grupo.c
+	"Grupo.h"
+
+1669389584 source:c:\users\magui\downloads\tp final lab ii - arean, mouriño, albarracin - com 4\tp_final_lab_ii\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	"cartelesBanderas.h"
+
+1669626841 source:c:\users\magui\downloads\tp final lab ii - arean, mouriño, albarracin - com 4\tp_final_lab_ii\partido.c
+	"Partido.h"
+
